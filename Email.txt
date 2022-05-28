@@ -1,0 +1,84 @@
+<div id=":16x" class="ii gt" jslog="20277; u014N:xr6bB; 4:W251bGwsbnVsbCxbXV0."><div id=":16y" class="a3s aiL "><div class="adM">
+  </div><div style="margin:0;padding:0px"><div class="adM">
+    </div><table cellpadding="0" cellspacing="0" border="0" width="100%" style="max-width:600px;background:#f4f5f9;font-size:1px;line-height:normal;margin:0 auto;padding:0">
+      <tbody><tr>
+        <td align="center" valign="top" height="100%">
+
+          <table cellpadding="0" cellspacing="0" border="0" width="100%" style="max-width:600px;min-width:300px;background:#f4f5f9;margin:0;padding:38px 40px 34px">
+            <tbody><tr>
+              <td align="left" valign="top">
+                <img src="https://i.ibb.co/QP4mKRQ/LOGO.png" alt="itg-logo" border="0" width="69" height="79" style="display:block" class="CToWUd">
+              </td>
+            </tr>
+            <tr>
+              <td>
+
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" style="max-width:600px;min-width:300px;margin:0;padding:50px 0 0 40px">
+                  <tbody><tr>
+                    <td align="left" valign="top">
+                      <span style="color:#000;font-size:36px;font-family:'Poppins', sans-serif;font-weight:700;line-height:44px;display:block">Hola! <br> Bienvenido </span>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top" style="padding-top:26px">
+                      <span style="color:#000;font-size:20px;font-family:'Poppins', sans-serif;line-height:30px;display:block">Gracias por unirte a CYTVID! <br> Esperamos tengas una gran estadia dentro de la aplicación.</span>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top" style="padding-top:26px">
+                      <span style="color:#000;font-size:20px;font-family:'Poppins', sans-serif;line-height:30px;display:block">Si tienes alguna duda o quieres reportar un error contactanos: <a href="mailto:contactocytvid@gmail.com" style="color:#2f00b1;
+                      font-size:20px;font-family:'Poppins', sans-serif;line-height:30px;text-decoration:none" target="_blank">contactocytvid@gmail.com</a>. <br> Dirigite al menu principal y explora <br> todas las funciones. </span>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top" style="padding-top:26px">
+                      <span style="color:#000;font-size:20px;font-family:'Poppins', sans-serif;line-height:30px;display:block">Saludos te desea, <br> CYTVID</span>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top" style="padding-top:77px">
+                      <a href="https://proyecto-aula-equipo3.conveyor.cloud/">Explorar</a>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="right" valign="top" style="padding-top:20px">
+                      <img src="https://raw.githubusercontent.com/CYTVID/ImagesSVG/gh-pages/business-3d-friendly-robot-assistant-waving.png" alt="itg-dino" border="0" width="200" style="display:block" class="CToWUd a6T" tabindex="0"><div class="a6S" dir="ltr" style="opacity: 0.01; left: 476px; top: 1024px;"><div id=":1nf" class="T-I J-J5-Ji aQv T-I-ax7 L3 a5q" title="Descargar" role="button" tabindex="0" aria-label="Descargar el archivo adjunto " data-tooltip-class="a1V"><div class="akn"><div class="aSK J-J5-Ji aYr"></div></div></div></div>
+                    </td>
+                  </tr>
+                </tbody></table>
+
+              </td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" style="border-bottom:1px solid #000">
+              </td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">
+
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" style="max-width:600px;min-width:300px;margin:0;padding:30px 0 0">
+                  <tbody><tr>
+                    <td align="center" valign="middle">
+                      <a href="" style="color:#333333;font:22px Arial,sans-serif;line-height:30px;text-decoration:none;padding:0 7px" target="_blank" data-saferedirecturl="">
+                        <img src="https://ci6.googleusercontent.com/proxy/ygVvyVHCL7HaIAFysU9PzgIhhWH476BY4IWNmrZ9y66M4YFfQBv1avFR8GRQtUDFWk2lCbgmhftzfMe2YcVFjObr2tyf_C_YLlXO-4GsxH-pDW_TrDhMj9_niVoDAujHSivACuf6n14TJNXtkJ4E2VrhowyLZh1qzEjMqd_I13KQr4g=s0-d-e1-ft#http://cdn.mcauto-images-production.sendgrid.net/7cbfdb6980b8cb12/d5a0b661-504e-4b42-a8e2-6152cbacec0b/42x48.png" alt="facebook-logo" border="0" width="20" class="CToWUd">
+                      </a>
+                      <a href="" style="color:#333333;font:22px Arial,sans-serif;line-height:30px;text-decoration:none;padding:0 7px" target="_blank" data-saferedirecturl="">
+                        <img src="https://ci3.googleusercontent.com/proxy/d1sNGer23ouukrNnGle1xiglj1k23_kMSnt594yspxM1ZEkVm2sFRar_MvGmUFb99KvLl6CchPN8x-We7DMLn3NcF2U2sX9F6ZGFnY84N6k_W_PLD-0uAf9htdRfW7p-cHw-VsI7MlAXgRqao-MpkKnrhrUjfhasLoYQt3RWCBvRZZw=s0-d-e1-ft#http://cdn.mcauto-images-production.sendgrid.net/7cbfdb6980b8cb12/faf90daa-e4a3-4469-aa25-881ea7d8abbe/48x38.png" alt="twitter-logo" border="0" width="23" class="CToWUd">
+                      </a>
+                      <a href="" style="color:#333333;font:22px Arial,sans-serif;line-height:30px;text-decoration:none;padding:0 7px" target="_blank" data-saferedirecturl="">
+                        <img src="https://ci3.googleusercontent.com/proxy/rf59rzrYh5U0e6aixgIhMR4bvFN_tUNywRE5l5h6jsuuukqcakkk_LBmTse2bFBcgRheiieAXuL0HNWemUBdNei2IgpQs2l9vg0NAOwo_aFbNVS2tHJIZ0DqbG5p4JM95Lwg1n0w6f3g7D0RcN-1GR2MLVgz7HGBSrMpCGwNUdzaZ3c=s0-d-e1-ft#http://cdn.mcauto-images-production.sendgrid.net/7cbfdb6980b8cb12/f713912d-a84d-401b-a4f0-21505f5128d8/44x44.png" alt="instagram-logo" border="0" width="20" class="CToWUd">
+                      </a>
+                    </td>
+                  </tr>
+                </tbody></table>
+
+              </td>
+            </tr>
+          </tbody></table>
+
+        </td>
+      </tr>
+    </tbody></table>
+  </div>
+</div>
+  
